@@ -9,3 +9,4 @@ In the first place,This code doesn't imprement if you didn't install "Outlook Ap
 
 If you do it,a mail is created in your draft folder of outlookApp. 
 This mail body is taken from A column and pasted from the top.
+
